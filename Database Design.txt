@@ -1,0 +1,6 @@
+Database Design For This Registration And Login System:
+
+Table Name :  users
+Table  Colums:   4  colums.
+
+userId            fullname         contact           email       password
